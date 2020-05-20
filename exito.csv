@@ -1,0 +1,183 @@
+nombre;marca;cantidad;unidad;precio;tipo
+Leche;Ekono;5400;ml;10680;integer
+Leche;Colanta;6600;ml;16000;integer
+Leche;Alqueria;7800;ml;22600;integer
+Leche;Alpina;6600;ml;18250;integer
+Huevos (a);Santa Reyes;30;unidad;15200;integer
+Huevos (a);Avinal;12;unidad;6700;integer
+Huevos (a);Insuperable;30;unidad;9600;integer
+Huevos (aa);Santa anita;12;unidad;6100;integer
+Huevos (aa);Kikes;30;unidad;13300;integer
+Huevos (aaa);Santa anita;24;unidad;13050;integer
+Huevos (aaa);Kikes;15;unidad;9190;integer
+Pan tajado;Bimbo;600;g;3990;integer
+Pan tajado;Ekono;420;g;2210;integer
+Pan tajado;Mama ines;420;g;3090;integer
+Cafe (Molido);Sello Rojo;400;g;6400;integer
+Cafe (Molido);Aguila Roja;500;g;7490;integer
+Cafe (Molido);oma;250;g;5690;integer
+Cafe (Molido);Juan Valdez;340;g;16245;integer
+Cafe (Molido);Éxito;500;g;5526;integer
+Chocolate;corona;500;g;5590;integer
+Chocolate;Ekono;570;g;4590;integer
+Chocolate;Tesalia;125;g;3024;integer
+Chocolate;Choco lyne;150;g;5346;integer
+Galletas;Saltin noel;570;g;4970;integer
+Galletas;Ducales;294;g;3980;integer
+Arroz;Roa;12500;g;39150;integer
+Arroz;Ekono;5000;g;14300;integer
+Arroz;Diana;5000;g;17750;integer
+Arroz;Roa;3000;g;10740;integer
+Arroz;Florhuila;5000;g;17500;integer
+Arroz;Diana;1000;g;3750;integer
+Arroz;Roa;5000;g;19000;integer
+Arroz;Florhuila;5000;g;17500;integer
+Arroz;Pepa;3000;g;15200;integer
+Arroz;Exito;12500;g;38050;integer
+Arroz;Diana;10000;g;36900;integer
+Arroz;Federal;2500;g;16150;integer
+Arroz;Roa;500;g;1692;integer
+Arroz;Castellano;1000;g;5913;integer
+Arroz;Sonora;3000;g;10152;integer
+Arroz;Supremo;5000;g;16515;integer
+Arroz;Supremo;3000;g;9900;integer
+Arroz;Federal;1000;g;4545;integer
+Aceite de oliva;Hacienda guzman;500;ml;12750;integer
+Aceite de oliva;Hacienda guzman;2000;ml;36900;integer
+Aceite de oliva;Taeq;500;ml;12650;integer
+Aceite de oliva;Gourmet;500;ml;20000;integer
+Aceite de oliva;Olivetto;1000;ml;18990;integer
+Aceite de oliva;Exito;500;ml;13545;integer
+Aceite de oliva;Carbonel;500;ml;19750;integer
+Aceite de oliva;Sublime;250;ml;12250;integer
+Aceite de oliva;Pomona;250;ml;9930;integer
+Aceite de oliva;Olitalia;1000;ml;47250;integer
+Aceite de oliva;Olitalia;500;ml;25740;integer
+Aceite de oliva;Serrata;500;ml;12690;integer
+Aceite de girasol;Gourmet;2000;ml;25100;integer
+Aceite de girasol;Frescampo;900;ml;5440;integer
+Aceite de girasol;Premier;2700;ml;27135;integer
+Aceite de girasol;Oleocali;3000;ml;23250;integer
+Aceite de girasol;Aceite Girasol;3000;ml;23500;integer
+Aceite de girasol;Gourmet;1000;ml;10512;integer
+Aceite de girasol;Premier;500;ml;5680;integer
+Aceite de girasol;Girasoli;2000;ml;17750;integer
+Aceite de girasol;Oleocali;900;ml;6525;integer
+Sal;Refisal;1000;g;1330;integer
+Sal;Frescampo;1000;g;1071;integer
+Azucar;Exito;1000;g;2650;integer
+Azucar;Manuelita;250;g;2600;integer
+Azucar;Incauca;2500;g;7150;integer
+Azucar;Manuelita;2000;g;6230;integer
+Azucar;Exito;2500;g;7110;integer
+Azucar;Incauca;1000;g;2511;integer
+Azucar;Mayaguez;2500;g;6327;integer
+Azucar;Manuelita;1000;g;2853;integer
+Queso;Alpina;250;g;6190;integer
+Queso;Colanta;250;g;3880;integer
+Queso;Colanta;500;g;9441;integer
+Queso;Alpina;1000;g;33700;integer
+Queso;bien star;250;g;8850;integer
+Queso;Colanta;2000;g;43920;integer
+Harina (Arepas);P.A.N;1000;g;3250;integer
+Harina (Arepas);DOÑAREPA;1000;g;3460;integer
+Harina (Arepas);P.A.N;500;g;1485;integer
+Harina (Arepas);DOÑAREPA;500;g;2110;integer
+Harina;haz de oros;1000;g;1550;integer
+Harina;haz de oros;500;g;1650;integer
+Harina;corona;500;g;1386;integer
+Harina;promasa;500;g;1870;integer
+Harina;promasa;1000;g;3540;integer
+Pasta;Doria;500;g;2840;integer
+Pasta;Doria;250;g;1630;integer
+Pasta;Monticello;500;g;5190;integer
+Pasta;La muneca;250;g;1520;integer
+Pasta;La muneca;1000;g;3618;integer
+Pasta;conzazon;1000;g;11610;integer
+Pasta;conzazon;500;g;5100;integer
+Pasta;de cecco;500;g;9900;integer
+Atun;Van camps;375;g;20565;integer
+Atun;Ekono;170;g;2570;integer
+Atun;La soberana;240;g;8990;integer
+Atun;Frescampo;110;g;3490;integer
+Atun;Van camps;160;g;5148;integer
+Atun;Robinson ciusoe;170;g;4730;integer
+Atun;Taeq;170;g;5085;integer
+Atun;Isabel;190;g;12465;integer
+Atun;Exito;240;g;7750;integer
+Atun;Isabel;375;g;20520;integer
+Atun;Alamar;140;g;4690;integer
+Frijol;Frescampo;1000;g;8490;integer
+Vinagre;Frescampo;500;ml;1990;integer
+Vinagre;Fruco;500;ml;4590;integer
+Vinagre;Colmans;500;ml;2457;integer
+Vinagre;Coruna;500;ml;2610;integer
+Vinagre;Frescampo;260;ml;1467;integer
+Mantequilla;Colanta;500;g;11950;integer
+Mantequilla;Alpina;125;g;4180;integer
+Mantequilla;Colanta;250;g;6100;integer
+Mantequilla;Colanta;250;g;5490;integer
+Mantequilla;Rama;125;g;1880;integer
+Mantequilla;Alpina;500;g;14715;integer
+Mantequilla;Rama;250;g;4020;integer
+Arveja;Exito;600;g;4800;integer
+Arveja;Exito;250;g;6100;integer
+Arveja;Frescampo;300;g;3050;integer
+Garbanzo;La coru¤a;600;g;5690;integer
+Jamon;Rica;400;g;5990;integer
+Jamon;Pietran;230;g;6790;integer
+Banano;Exito;1;unidad;200;integer
+Papaya;Exito;1;unidad;5780;integer
+Manzana(Roja);Exito;1;unidad;1260;integer
+Manzana(Verde);Exito;1;unidad;2000;integer
+Manzana(Verde);Exito;6;unidad;10980;integer
+Manzana(Gala);Exito;6;unidad;8440;integer
+Pera;Exito;1;unidad;500;integer
+Pera;Exito;6;unidad;9210;integer
+Mango tommy;Exito;1;unidad;1240;integer
+Mango azucar;Exito;1;unidad;890;integer
+Mora;Exito;500;g;6220;integer
+Mora;Exito;500;g;2590;integer
+Limon;Exito;1000;g;3390;integer
+Uva;Exito;800;g;10170;integer
+Uva;Dole;1000;g;15900;integer
+Fresa;Exito;500;g;6300;integer
+Fresa;Exito;250;g;3360;integer
+Maracuya;Exito;1;unidad;1010;integer
+Papa;Frescampo;2000;g;4850;integer
+Papa;Ekono;3000;g;9380;integer
+Yuca;Exito;1;unidad;1770;integer
+Lechuga;Exito;1;unidad;1750;integer
+Cebolla cabezona;Exito;1;unidad;430;integer
+Cebolla larga;Exito;500;g;2480;integer
+Cebolla larga;Exito;500;g;6450;integer
+Pimenton;Exito;1;unidad;480;integer
+Pimenton;Exito;4;unidad;3250;integer
+Cilantro;Exito;100;g;1100;integer
+Zanahoria;Frescampo;1000;g;1970;integer
+Zanahoria;Exito;500;g;6930;integer
+Aguacate;Exito;1;unidad;900;integer
+Champinon;Exito;250;g;4980;integer
+Yogurt;Alpina;1750;g;17800;integer
+Yogurt;Finesse;1700;g;17600;integer
+Yogurt;Taeq;1000;g;9180;integer
+Carne desmechar;Exito;500;g;10220;integer
+Carne asar;Exito;1000;g;16120;integer
+Carne asar;Exito;500;g;7745;integer
+Carne asar;Frescampo;500;g;10100;integer
+Carne molida;Exito;500;g;8450;integer
+Carne molida;Exito;1000;g;13490;integer
+Carne cerdo;Exito;500;g;4417;integer
+Carne cerdo;Exito;1000;g;11284;integer
+Costilla res;Exito;500;g;4450;integer
+Costilla res;Exito;1000;g;9900;integer
+Bagre;Bagre;800;g;12800;integer
+Bagre;Exito;1000;g;28200;integer
+Salmon;Exito;4000;g;55980;integer
+Salmon;Ancla & viento;450;g;41000;integer
+Pollo con visceras;Exito;1800;g;12200;integer
+Pollo campesino;Exito;2000;g;19960;integer
+Tomate;Exito;1000;g;9390;integer
+Tomate;Frescampo;1000;g;2940;integer
+Champinon;Exito;250;g;4580;integer
+Champinon;Exito;500;g;8400;integer

@@ -1,0 +1,171 @@
+nombre;marca;cantidad;unidad;precio;tipo
+Leche Entera;Carulla;5400;ml;13400;integer
+Leche Deslactosada;Alqueria;7800;ml;21900;integer
+Leche Entera;Alpina;6600;ml;19200;integer
+Leche Deslactosada Descremada;Alpina;6600;ml;22500;integer
+Leche Deslactosada;Alpina;6600;ml;19850;integer
+Leche Deslactosada;Colanta;6600;ml;20900;integer
+Huevos (AA);Kikes pet;30;unidad;13300;integer
+Huevos (AA);Kikes pet;12;unidad;6100;integer
+Huevos (AAA);Santa anita;24;unidad;13050;integer
+Huevos (AA);Santa anita;12;unidad;6100;integer
+Huevos (A);Santa anita;30;unidad;12200;integer
+Huevos (AA);Santa Reyes;30;unidad;15300;integer
+Huevos (A);Santa Reyes;30;unidad;15200;integer
+Huevos (AA);Santa Reyes;12;unidad;6750;integer
+Huevos (AA);Santa Reyes;18;unidad;13600;integer
+Pan Sandwich blanco;Bimbo;600;g;4400;integer
+Pan Sandwich blanco;Comapan;520;g;3850;integer
+Pan Sandwich blanco;Comapan;750;g;5400;integer
+Pan Sandwich blanco;Mama Ines;420;g;3650;integer
+Pan Sandwich blanco;Carulla;600;g;3950;integer
+Pan Sandwich Mantequilla;Carulla;500;g;3850;integer
+Pan Sandwich Integral;Bimbo;650;g;5800;integer
+Pan Sandwich Artesano;Bimbo;500;g;4500;integer
+Pan Sandwich Integral Artesano;Bimbo;500;g;5050;integer
+Pan Sandwich Integral;taeq;375;g;3450;integer
+Cafe;Juan Valdez;283;g;22550;integer
+Cafe;Sello Rojo;500;g;8400;integer
+Cafe;Aguila Roja;500;g;7800;integer
+Cafe;Oma;500;g;10410;integer
+Cafe;Cafe Quindio;500;g;22815;integer
+Cafe;Carulla;500;g;5800;integer
+Chocolate de Mesa;Chocolyne;156;g;5650;integer
+Chocolate de Mesa;Corona;250;g;3150;integer
+Chocolate de Mesa;Tesalia;125;g;3500;integer
+Chocolate de Mesa;Carulla;500;g;5200;integer
+Galletas;Saltin noel;380;g;4700;integer
+Galletas;Tosh Miel;270;g;5150;integer
+Galletas;Ducales;294;g;5150;integer
+Galletas;Sultana;220;g;4550;integer
+Galletas;Club Social;233;g;3799;integer
+Carne Molida;Carulla;1000;g;15800;integer
+Carne Molida;taeq;450;g;11050;integer
+Costilla Res;Carulla;500;g;5250;integer
+Carne Asar;Carulla;500;g;7650;integer
+Chatas;Carulla;500;g;19650;integer
+Punta de Anca;Carulla;500;g;14450;integer
+Carne Desmechar;Carulla;500;g;9825;integer
+Sobrebarriga;Carulla;500;g;10650;integer
+Milanesa Res;Carulla;500;g;8125;integer
+Filete Pollo;Carulla;500;g;11550;integer
+Pernil con piel;Carulla;500;g;5400;integer
+Salmon;Vitamar;450;g;43830;integer
+Tilapia;Carulla;500;g;14000;integer
+Trucha;Carulla;500;g;16950;integer
+Mojarra;Carulla;1000;g;9400;integer
+Lomo de Atun;Pesco;400;g;27285;integer
+Basa;Frescampo;800;g;13500;integer
+Robalo;Pesco;450;g;34000;integer
+Corvina;Carulla;1000;g;19000;integer
+Arroz blanco;Diana;1000;g;3700;integer
+Arroz blanco;Carulla;3000;g;9250;integer
+Arroz blanco;Roa;3000;g;13650;integer
+Arroz blanco;Florhuila;3000;g;13650;integer
+Arroz blanco;Do¤a pepa;3000;g;16650;integer
+Arroz blanco;Frescampo;1000;g;3650;integer
+Arroz integral;Federal;1000;g;6100;integer
+Arroz integral;taeq;1000;g;4650;integer
+Arroz integral;Florhuila;1000;g;5150;integer
+Arroz integral;Roa;1000;g;4850;integer
+Aceite de girasol;Premier;1000;ml;11250;integer
+Aceite de girasol;Frescampo;900;ml;5550;integer
+Aceite de girasol;Girasoli;900;ml;6650;integer
+Aceite de girasol;Oleocali;900;ml;7650;integer
+Aceite de oliva;Hacienda Guzman;500;ml;12450;integer
+Aceite de oliva;taeq;500;ml;12950;integer
+Aceite de oliva;Sublime;500;ml;22800;integer
+Aceite de oliva;Pomona;250;ml;11500;integer
+Aceite de oliva;Olivetto;500;ml;30550;integer
+Sal;Refisal;1000;g;1200;integer
+Sal;Frescampo;1000;g;1000;integer
+Azucar blanca;Manuelita;2000;g;6450;integer
+Azucar blanca;Carulla;1000;g;2700;integer
+Azucar blanca;Incauca;1000;g;2900;integer
+Azucar morena;Carulla;1000;g;3350;integer
+Azucar morena;Manuelita;1000;g;3350;integer
+Queso Mozzarella;El zarzal;250;g;7950;integer
+Queso Mozzarella;Alpina;250;g;6350;integer
+Queso Mozzarella;Colanta;250;g;8550;integer
+Queso Mozzarella;Carulla;450;g;14500;integer
+Queso Campesino;Colanta;250;g;5650;integer
+Queso Campesino;Alpina;250;g;6850;integer
+Queso Parmesano;Alpina;100;g;7750;integer
+Queso Parmesano;Kraft;227;g;15900;integer
+Queso Parmesano;Alpina;250;g;20150;integer
+Queso Parmesano;Carulla;100;g;5080;integer
+Queso Doble Crema;Pasco;450;g;15050;integer
+Queso Doble Crema;Colanta;250;g;8500;integer
+Queso Doble Crema;Carulla;450;g;12450;integer
+Harina;Haz de oros;1000;g;3450;integer
+Harina;Corona;500;g;1750;integer
+Harina (Arepas);Pan;1000;g;3400;integer
+Harina (Arepas);Frescampo;1000;g;3300;integer
+Harina (Arepas);Do¤arepa;500;g;2300;integer
+Spaghetti;Barilla;500;g;5800;integer
+Spaghetti;Doria;1000;g;3950;integer
+Spaghetti;Majora;500;g;4400;integer
+Spaghetti;Monticello;500;g;5800;integer
+Atun en aceite de oliva;Van Camps;160;g;8800;integer
+Atun en aceite;Van Camps;140;g;6300;integer
+Atun en aceite;Robinson Crusoe;170;g;5050;integer
+Atun en aceite;Isabel;160;g;6750;integer
+Atun en agua;Robinson Crusoe;170;g;6200;integer
+Atun en agua;Van Camps;160;g;6600;integer
+Atun en agua;Isabel;160;g;6600;integer
+Frijol;Frescampo;500;g;3510;integer
+Lenteja;Frescampo;1000;g;3400;integer
+Lenteja;Seeds;40;g;2850;integer
+Vinagre blanco;Frescampo;500;ml;1950;integer
+Vinagre blanco;Coruna;500;ml;3000;integer
+Vinagre blanco;Fruco;500;ml;4700;integer
+Mantequilla;Alpina;125;g;4450;integer
+Mantequilla;Alpina;250;g;8800;integer
+Mantequilla;Colanta;250;g;6000;integer
+Mantequilla;Rama;125;g;1800;integer
+Mantequilla;Rama;250;g;4000;integer
+Mantequilla;Alpina;500;g;17450;integer
+Mantequilla;Superior;200;g;6900;integer
+Mantequilla;La fina;125;g;1950;integer
+Arveja;Frescampo;1000;g;2800;integer
+Arveja;Carulla;500;g;12400;integer
+Arveja;Frescampo;500;g;1400;integer
+Garbanzo;Frescampo;1000;g;5550;integer
+Garbanzo;Frescampo;500;g;2850;integer
+Jamon;Pietran;450;g;14300;integer
+Jamon;Pietran;230;g;7600;integer
+Jamon;Rica;400;g;5990;integer
+Jamon;Zenu;450;g;9100;integer
+Jamon;Zenu;230;g;5800;integer
+Manzana(Gala);Carulla;6;unidad;7960;integer
+Manzana(Verde);Carulla;6;unidad;8720;integer
+Manzana(Roja);Carulla;6;unidad;9200;integer
+Pera;Carulla;1;unidad;500;integer
+Uva;Dole;1000;g;11920;integer
+Uva;Carulla;800;g;7360;integer
+Mango tommy;Carulla;1;unidad;1640;integer
+Mango azucar;Carulla;1;unidad;520;integer
+Banano;Carulla;1;unidad;224;integer
+Papaya;Carulla;1;unidad;5200;integer
+Lechuga;Carulla;200;g;1640;integer
+Lechuga;Taeq;220;g;3776;integer
+Fresa;Carulla;500;g;6900;integer
+Mora;Carulla;500;g;6690;integer
+Papa;Carulla;5000;g;12960;integer
+Yuca;Carulla;1;unidad;2240;integer
+Pimenton;Carulla;1;unidad;800;integer
+Cebolla cabezona;Carulla;1;unidad;440;integer
+Cebolla larga;Carulla;300;g;5200;integer
+Champinones;Carulla;250;g;5810;integer
+Champinones;Zenu;200;g;6400;integer
+Champinones;Carulla;500;g;9640;integer
+Tomate chonto;Carulla;1;unidad;590;integer
+Tomate cherry;Carulla;500;g;7550;integer
+Cilantro;Carulla;100;g;800;integer
+Zanahoria;Carulla;1;unidad;800;integer
+Yogurt;Alpina;1750;g;17050;integer
+Yogurt;Alpina;1000;ml;10750;integer
+Yogurt;Zorba;500;g;17850;integer
+Yogurt;Finesse;1000;ml;10550;integer
+Yogurt;Yox;100;g;1950;integer
+Yogurt;Kefir;1000;g;16000;integer

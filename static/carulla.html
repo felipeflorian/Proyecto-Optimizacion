@@ -1,0 +1,95 @@
+<html>
+
+<head>
+    <h1>Solicitud</h1>
+</head>
+
+<body>
+    <p> Por favor ingrese las cantidades de cada producto que necesita. Un espacio vacío se interpreta como 0.
+    </p>
+    <form action="http://localhost:5000/resultadoCarulla" , method="POST">
+        <p>Leche Entera (ml)<input type="number" min="0" value="0"   name="Leche_Entera" /></p>
+        <p>Leche Deslactosada (ml)<input type="number" min="0" value="0"   name="Leche_Deslactosada" /></p>
+        <p>Leche Deslactosada Descremada (ml)<input type="number" min="0" value="0"   name="Leche_Deslactosada_Descremada" /></p>
+        <p>Huevos (A) (unidad) <input type="number" min="0" value="0"   name="Huevos_(A)" /></p>
+        <p>Huevos (AA) (unidad) <input type="number" min="0" value="0"   name="Huevos_(AA)" /></p>
+        <p>Huevos (AAA) (unidad)<input type="number" min="0" value="0"   name="Huevos_(AAA)" /></p>
+        <p>Pan Sandwich blanco (g)<input type="number" min="0" value="0"   name="Pan_Sandwich_blanco" /></p>
+        <p>Pan Sandwich Mantequilla (g)<input type="number" min="0" value="0"   name="Pan_Sandwich_Mantequilla" /></p>
+        <p>Pan Sandwich Artesano (g)<input type="number" min="0" value="0"   name="Pan_Sandwich_Artesano" /></p>
+        <p>Pan Sandwich Integral (g)<input type="number" min="0" value="0"   name="Pan_Sandwich_Integral" /></p>
+        <p>Pan Sandwich Integral Artesano (g)<input type="number" min="0" value="0"   name="Pan_Sandwich_Integral_Artesano" /></p>
+        <p>Cafe (g)<input type="number" min="0" value="0"   name="Cafe" /></p>
+        <p>Chocolate de Mesa (g)<input type="number" min="0" value="0"   name="Chocolate_de_Mesa" /></p>
+        <p>Galletas (g)<input type="number" min="0" value="0"   name="Galletas" /></p>
+        <p>Carne Molida (g)<input type="number" min="0" value="0"   name="Carne_Molida" /></p>
+        <p>Costilla Res (g)<input type="number" min="0" value="0"   name="Costilla_Res" /></p>
+        <p>Carne Asar (g)<input type="number" min="0" value="0"   name="Carne_Asar" /></p>
+        <p>Chatas (g)<input type="number" min="0" value="0"   name="Chatas" /></p>
+        <p>Punta de Anca (g)<input type="number" min="0" value="0"   name="Punta_de_Anca" /></p>
+        <p>Carne Desmechar (g)<input type="number" min="0" value="0"   name="Carne_Desmechar" /></p>
+        <p>Sobrebarriga (g)<input type="number" min="0" value="0"   name="Sobrebarriga" /></p>
+        <p>Milanesa Res (g)<input type="number" min="0" value="0"   name="Milanesa_Res" /></p>
+        <p>Filete Pollo (g)<input type="number" min="0" value="0"   name="Filete_Pollo" /></p>
+        <p>Pernil con piel (g)<input type="number" min="0" value="0"   name="Pernil_con_piel" /></p>
+        <p>Salmon (g)<input type="number" min="0" value="0"   name="Salmon" /></p>
+        <p>Tilapia (g)<input type="number" min="0" value="0"   name="Tilapia" /></p>
+        <p>Trucha (g)<input type="number" min="0" value="0"   name="Trucha" /></p>
+        <p>Mojarra (g)<input type="number" min="0" value="0"   name="Mojarra" /></p>
+        <p>Lomo de Atun (g)<input type="number" min="0" value="0"   name="Lomo_de_Atun" /></p>
+        <p>Basa (g)<input type="number" min="0" value="0"   name="Basa" /></p>
+        <p>Robalo (g)<input type="number" min="0" value="0"   name="Robalo" /></p>
+        <p>Corvina (g)<input type="number" min="0" value="0"   name="Corvina" /></p>
+        <p>Arroz blanco (g)<input type="number" min="0" value="0"   name="Arroz_blanco" /></p>
+        <p>Arroz integral (g)<input type="number" min="0" value="0"   name="Arroz_integral" /></p>
+        <p>Aceite de girasol (ml)<input type="number" min="0" value="0"   name="Aceite_de_girasol" /></p>
+        <p>Aceite de oliva (ml)<input type="number" min="0" value="0"   name="Aceite_de_oliva" /></p>
+        <p>Sal (g)<input type="number" min="0" value="0"   name="Sal" /></p>
+        <p>Azucar blanca (g)<input type="number" min="0" value="0"   name="Azucar_blanca" /></p>
+        <p>Azucar morena (g)<input type="number" min="0" value="0"   name="Azucar_morena" /></p>
+        <p>Queso Mozzarella (g)<input type="number" min="0" value="0"   name="Queso_Mozzarella" /></p>
+        <p>Queso Campesino (g)<input type="number" min="0" value="0"   name="Queso_Campesino" /></p>
+        <p>Queso Parmesano (g)<input type="number" min="0" value="0"   name="Queso_Parmesano" /></p>
+        <p>Queso Doble Crema (g)<input type="number" min="0" value="0"   name="Queso_Doble_Crema" /></p>
+        <p>Harina (g)<input type="number" min="0" value="0"   name="Harina" /></p>
+        <p>Harina (Arepas) (g)<input type="number" min="0" value="0"   name="Harina_(Arepas)" /></p>
+        <p>Spaguetti (g)<input type="number" min="0" value="0"   name="Spaghetti" /></p>
+        <p>Atun en aceite de oliva (g)<input type="number" min="0" value="0"   name="Atun_en_aceite_de_oliva" /></p>
+        <p>Atun en aceite (g)<input type="number" min="0" value="0"   name="Atun_en_aceite" /></p>
+        <p>Atun en agua (g)<input type="number" min="0" value="0"   name="Atun_en_agua" /></p>
+        <p>Frijol (g)<input type="number" min="0" value="0"   name="Frijol" /></p>
+        <p>Lenteja (g)<input type="number" min="0" value="0"   name="Lenteja" /></p>
+        <p>Vinagre blanco (ml)<input type="number" min="0" value="0"   name="Vinagre_blanco" /></p>
+        <p>Mantequilla (g)<input type="number" min="0" value="0"   name="Mantequilla" /></p>
+        <p>Arveja (g)<input type="number" min="0" value="0"   name="Arveja" /></p>
+        <p>Garbanzo (g)<input type="number" min="0" value="0"   name="Garbanzo" /></p>
+        <p>Jamon (g)<input type="number" min="0" value="0"   name="Jamon" /></p>        
+        <p>Manzana(Gala) (unidad)<input type="number" min="0" value="0"   name="Manzana(Gala)" /></p>
+        <p>Manzana(Verde) (unidad)<input type="number" min="0" value="0"   name="Manzana(Verde)" /></p>
+        <p>Manzana(Roja) (unidad)<input type="number" min="0" value="0"   name="Manzana(Roja)" /></p>
+        <p>Pera (unidad)<input type="number" min="0" value="0"   name="Pera" /></p>
+        <p>Uva (g)<input type="number" min="0" value="0"   name="Uva" /></p>
+        <p>Mango tommy (unidad)<input type="number" min="0" value="0"   name="Mango_tommy" /></p>
+        <p>Mango azucar (unidad)<input type="number" min="0" value="0"   name="Mango_azucar" /></p>
+        <p>Banano (unidad)<input type="number" min="0" value="0"   name="Banano" /></p>
+        <p>Papaya (unidad)<input type="number" min="0" value="0"   name="Papaya" /></p>
+        <p>Lechuga (g)<input type="number" min="0" value="0"   name="Lechuga" /></p>
+        <p>Fresa (g)<input type="number" min="0" value="0"   name="Fresa" /></p>
+        <p>Mora (g)<input type="number" min="0" value="0"   name="Mora" /></p>
+        <p>Papa (g)<input type="number" min="0" value="0"   name="Papa" /></p>
+        <p>Yuca (unidad)<input type="number" min="0" value="0"   name="Yuca" /></p>
+        <p>Pimenton (unidad)<input type="number" min="0" value="0"   name="Pimenton" /></p>
+        <p>Cebolla cabezona (unidad)<input type="number" min="0" value="0"   name="Cebolla_cabezona" /></p>
+        <p>Cebolla larga (g)<input type="number" min="0" value="0"   name="Cebolla_larga" /></p>
+        <p>Champinones (g)<input type="number" min="0" value="0"   name="Champinones" /></p>
+        <p>Tomate chonto (unidad)<input type="number" min="0" value="0"   name="Tomate_chonto" /></p>
+        <p>Tomate cherry (g)<input type="number" min="0" value="0"   name="Tomate_cherry" /></p>
+        <p>Cilantro (g)<input type="number" min="0" value="0"   name="Cilantro" /></p>
+        <p>Zanahoria (unidad)<input type="number" min="0" value="0"   name="Zanahoria" /></p>
+        <p>Yogurt (g)<input type="number" min="0" value="0"   name="Yogurt" /></p>
+        
+        <p><input type="submit" value="Optimizar" /></p>
+    </form>
+</body>
+
+</html>

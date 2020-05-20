@@ -1,0 +1,119 @@
+fila;nombre;marca;cantidad;unidad;precio;tipo
+63;Aceite de Canola;Don Olio;2000;ml;12990;integer
+64;Aceite de Canola;Don Olio;1000;ml;6690;integer
+67;Aceite de Oliva;Castell de Ferro;500;ml;8990;integer
+59;Aceite de Girasol;Don Olio;2000;ml;11500;integer
+60;Aceite de Girasol;Don Olio;1000;ml;5850;integer
+61;Aceite de Girasol;Gota de Oro;2000;ml;12490;integer
+62;Aceite de Girasol;Gota de Oro;1000;ml;6390;integer
+65;Aceite Vegetal;Gota de Oro;3000;ml;14490;integer
+66;Aceite Vegetal;Gota de Oro;1000;ml;4990;integer
+113;Aguacate Hass;D1;500;g;1700;integer
+111;Ajo;D1;100;g;2100;integer
+54;Arroz;El Estio;454;g;1450;integer
+55;Arroz;El Estio;500;g;1650;integer
+56;Arroz;El Estio;1000;g;3950;integer
+57;Arroz;El Estio;2500;g;9900;integer
+58;Arroz;Diana;1000;g;3650;integer
+101;Arvejas;El Estio;500;g;1650;integer
+89;Atun en Aceite;Carlo Forte;170;g;3690;integer
+90;Atun en Aceite;El Navio;170;g;2190;integer
+91;Atun en Aceite;Carlo Forte;160;g;4990;integer
+92;Atun en Agua;Carlo Forte;170;g;3900;integer
+70;Azucar Blanca;Riopaila;1000;g;2750;integer
+71;Azucar Morena;Riopaila;1000;g;2800;integer
+13;Cafe;Viejo Molino;500;g;6350;integer
+14;Cafe;Viejo Molino;500;g;5950;integer
+15;Cafe;Viejo Molino;125;g;1890;integer
+16;Cafe;Viejo Molino;500;g;5950;integer
+17;Cafe Instantaneo;Nescafe;85;g;7390;integer
+20;Cafe Instantaneo;Viejo Molino;85;g;4290;integer
+18;Cafe Instantaneo;Viejo Molino;85;g;4990;integer
+19;Cafe Instantaneo;Viejo Molino;85;g;4690;integer
+39;Carne Molida;Red Cut;500;g;5990;integer
+38;Carne de Res para Asar;Red Cut;500;g;5990;integer
+21;Chocolate de mesa;Casa Real;125;g;2150;integer
+22;Chocolate de mesa;Casa Real;230;g;3750;integer
+23;Chocolate de mesa;De la Taza;250;g;4290;integer
+24;Chocolate de mesa;De la Taza;230;g;4350;integer
+25;Chocolate de mesa;De la Taza;500;g;3990;integer
+26;Chocolate de mesa;Corona;230;g;4350;integer
+27;Chocolate de mesa;Sol;320;g;5100;integer
+28;Chocolate de mesa;Cruz;250;g;5500;integer
+29;Chocolate de mesa;Tesalia;125;g;2600;integer
+49;Contramuslos de Pollo;D1;700;g;6600;integer
+50;Contramuslos de Pollo;Brasset;700;g;5950;integer
+51;Costilla de Cerdo Ahumada;Carnes del Sebastian;450;g;9690;integer
+52;Costilla de Cerdo Ahumada;Big Bob;450;g;9990;integer
+94;Frijol Blanco;El Estio;500;g;3000;integer
+95;Frijol Rojo;El Estio;500;g;3450;integer
+93;Frijol Rosado;El Estio;500;g;3400;integer
+30;Galletas;Noel;266;g;2990;integer
+31;Galletas;Saltisimas;300;g;2100;integer
+32;Galletas;Saltisimas;454;g;2890;integer
+33;Galletas;Saltin Noel;266;g;2990;integer
+34;Galletas;Saltin Noel;384;g;3750;integer
+35;Galletas;Club Social;234;g;3650;integer
+36;Galletas;Crakenas;384;g;3890;integer
+37;Galletas;Ducales;241;g;3500;integer
+102;Garbanzo;El Estio;500;g;2290;integer
+118;Guayaba;D1;1000;g;1450;integer
+81;Harina de Maiz Amarilla;La Soberana;1000;g;2490;integer
+82;Harina de Maiz Amarilla;Pan;1000;g;3390;integer
+83;Harina de Maiz Amarilla;Quicksy;1000;g;2490;integer
+84;Harina de Maiz Blanca;La Soberana;1000;g;2490;integer
+85;Harina de Maiz Blanca;Pan;1000;g;3390;integer
+86;Harina de Maiz Blanca;Quicksy;1000;g;2490;integer
+79;Harina de Trigo;Paspan;500;g;1150;integer
+80;Harina de Trigo;Quicksy;500;g;1050;integer
+6;Huevos A;Sol Naciente;30;unidad;8990;integer
+7;Huevos AA;Sol Naciente;12;unidad;3990;integer
+103;Jamon de Cerdo;Viande;300;g;5890;integer
+104;Jamon de Cerdo;Viande;400;g;4890;integer
+107;Jamon de Pavo;White Holland;250;g;6490;integer
+105;Jamon de Pollo;Viande;230;g;6150;integer
+106;Jamon de Pollo;Brakel;250;g;4550;integer
+3;Leche Deslactosada;Latti;900;ml;2390;integer
+4;Leche Deslactosada;Latti;900;ml;1990;integer
+1;Leche Entera;Latti;1000;ml;1690;integer
+5;Leche Entera;Latti;900;ml;1890;integer
+2;Leche Semidescremada;Latti;1000;ml;1650;integer
+96;Lentejas;El Estio;500;g;1950;integer
+112;Limon;D1;500;g;2700;integer
+53;Lomo de Cerdo;Red Cut;500;g;7690;integer
+99;Mantequilla;Alpina;125;g;3600;integer
+98;Mantequilla;Don Olio;250;g;3950;integer
+100;Mantequilla;Alpina;250;g;7990;integer
+114;Manzana;D1;1000;g;6900;integer
+44;Muslos de Pollo;D1;700;g;6650;integer
+45;Muslos de Pollo;Elolfo;800;g;4950;integer
+46;Muslos de Pollo;Brasset;700;g;6890;integer
+47;Muslos de Pollo;Brasset;800;g;4790;integer
+12;Pan Artesanal;Horneaditos;500;g;3490;integer
+8;Pan Blanco;Horneaditos;450;g;1830;integer
+9;Pan Integral;Horneaditos;300;g;2600;integer
+10;Pan Integral;Horneaditos;340;g;2450;integer
+11;Pan Integral;Horneaditos;350;g;1690;integer
+110;Papa Capira;D1;2000;g;4500;integer
+115;Papa Criolla;D1;1000;g;4200;integer
+40;Pechuga de Pollo;Bucanero;1100;g;9750;integer
+41;Pechuga de Pollo;Trader Foods;500;g;5000;integer
+42;Pechuga de Pollo;Brasset;1100;g;9990;integer
+43;Pechuga de Pollo;Brasset;500;g;5000;integer
+117;Pera;D1;1000;g;6900;integer
+48;Medio Pollo;Brasset;1100;g;7950;integer
+73;Queso;Lonchitas;272;g;4690;integer
+72;Queso Campesino;Latti;250;g;3490;integer
+75;Queso Holandes;Centurion;150;g;6990;integer
+74;Queso Mozzarela;Latti;400;g;5500;integer
+76;Queso Parmesano;Alpina;100;g;7790;integer
+77;Queso Parmesano;Latti;100;g;4990;integer
+78;Queso Sabanero;Latti;250;g;5990;integer
+68;Sal;Refisal;500;g;600;integer
+69;Sal;Refisal;1000;g;1150;integer
+87;Spaghetti;Caprissima;250;g;750;integer
+88;Spaghetti;Deliziare;500;g;2250;integer
+109;Tomate Chonto;D1;500;g;2150;integer
+116;Tomate de Arbol;D1;1000;g;2500;integer
+97;Vinagre Blanco;Zev;500;ml;1460;integer
+108;Yogurt;Latti;1000;g;5790;integer

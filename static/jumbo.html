@@ -1,0 +1,89 @@
+<html>
+
+<head>
+    <h1>Solicitud</h1>
+</head>
+
+<body>
+    <p> Por favor ingrese las cantidades de cada producto que necesita. Un espacio vacío se interpreta como 0.
+    </p>
+    <form action="http://localhost:5000/resultadoJumbo" , method="POST">
+        <p>Aceite de girasol (cm3)<input type="number" min="0" value="0"   name="Aceite_de_girasol" /></p>
+        <p>Aceite de oliva (cm3)<input type="number" min="0" value="0"   name="Aceite_de_oliva" /></p>
+        <p>Arroz (g)<input type="number" min="0" value="0"   name="Arroz" /></p>
+        <p>Arveja (g) <input type="number" min="0" value="0"   name="Arveja" /></p>
+        <p>Atún en aceite de oliva (g) <input type="number" min="0" value="0"   name="Atun_en_aceite_de_oliva" /></p>
+        <p>Atún en agua (g)<input type="number" min="0" value="0"   name="Atun_en_agua" /></p>
+        <p>Azucar (g)<input type="number" min="0" value="0"   name="Azucar" /></p>
+        <p>Basa (g)<input type="number" min="0" value="0"   name="Basa" /></p>
+        <p>Cadera (Res) (g)<input type="number" min="0" value="0"   name="Cadera" /></p>
+        <p>Café (g)<input type="number" min="0" value="0"   name="Cafe" /></p>
+        <p>Carne asar (Res) (g)<input type="number" min="0" value="0"   name="Carne_Asar" /></p>
+        <p>Carne desmechar (Res) (g)<input type="number" min="0" value="0"   name="Carne_Desmechar" /></p>
+        <p>Carne molida (Res) (g)<input type="number" min="0" value="0"   name="Carne_Molida" /></p>
+        <p>Cebolla cabezona (g)<input type="number" min="0" value="0"   name="Cebolla_cabezona" /></p>
+        <p>Cebolla larga (g)<input type="number" min="0" value="0"   name="Cebolla_larga" /></p>
+        <p>Centro de pierna (Res) (g)<input type="number" min="0" value="0"   name="Centro_de_pierna" /></p>
+        <p>Champiñones (g)<input type="number" min="0" value="0"   name="Champinones" /></p>
+        <p>Chatas (Res) (g)<input type="number" min="0" value="0"   name="Chatas" /></p>
+        <p>Chocolate de mesa (g)<input type="number" min="0" value="0"   name="Chocolate_de_Mesa" /></p>
+        <p>Cilantro (g)<input type="number" min="0" value="0"   name="Cilantro" /></p>
+        <p>Corvina (g)<input type="number" min="0" value="0"   name="Corvina" /></p>
+        <p>Costilla de res (g)<input type="number" min="0" value="0"   name="Costilla_Res" /></p>
+        <p>Filete de pollo (g)<input type="number" min="0" value="0"   name="Filete_Pollo" /></p>
+        <p>Fresa (g)<input type="number" min="0" value="0"   name="Fresa" /></p>
+        <p>Frijol (g)<input type="number" min="0" value="0"   name="Frijol" /></p>
+        <p>Galletas (g)<input type="number" min="0" value="0"   name="Galletas" /></p>
+        <p>Garbanzo (g)<input type="number" min="0" value="0"   name="Garbanzo" /></p>
+        <p>Goulash de res (g)<input type="number" min="0" value="0"   name="Goulash_Res" /></p>
+        <p>Harina (g)<input type="number" min="0" value="0"   name="Harina" /></p>
+        <p>Harina (Arepas) (g)<input type="number" min="0" value="0"   name="Harina_(Arepas)" /></p>
+        <p>Huevos A (unidad)<input type="number" min="0" value="0"   name="Huevos_(A)" /></p>
+        <p>Huevos AA (unidad)<input type="number" min="0" value="0"   name="Huevos_(AA)" /></p>
+        <p>Huevos AAA (unidad)<input type="number" min="0" value="0"   name="Huevos_(AAA)" /></p>
+        <p>Jamón (g)<input type="number" min="0" value="0"   name="Jamon" /></p>
+        <p>Leche deslactosada (ml)<input type="number" min="0" value="0"   name="Leche_Deslactosada" /></p>
+        <p>Leche entera (ml)<input type="number" min="0" value="0"   name="Leche_Entera" /></p>
+        <p>Lechuga (g)<input type="number" min="0" value="0"   name="Lechuga" /></p>
+        <p>Lenteja (g)<input type="number" min="0" value="0"   name="Lenteja" /></p>
+        <p>Lomo de atun (g)<input type="number" min="0" value="0"   name="Lomo_de_Atun" /></p>
+        <p>Mantequilla (g)<input type="number" min="0" value="0"   name="Mantequilla" /></p>
+        <p>Manzana (unidad)<input type="number" min="0" value="0"   name="Manzana" /></p>
+        <p>Merluza (g)<input type="number" min="0" value="0"   name="Merluza" /></p>
+        <p>Milanesa de res (g)<input type="number" min="0" value="0"   name="Milanesa_Res" /></p>
+        <p>Mojarra (g)<input type="number" min="0" value="0"   name="Mojarra" /></p>
+        <p>Mora (g)<input type="number" min="0" value="0"   name="Mora" /></p>
+        <p>Pan de sandwich (g)<input type="number" min="0" value="0"   name="Pan_Sandwich" /></p>
+        <p>Pan de sandwich integral (g)<input type="number" min="0" value="0"   name="Pan_Sandwich_Integral" /></p>
+        <p>Papa (g)<input type="number" min="0" value="0"   name="Papa" /></p>
+        <p>Papaya (g)<input type="number" min="0" value="0"   name="Papaya" /></p>
+        <p>Pera (g)<input type="number" min="0" value="0"   name="Pera" /></p>
+        <p>Pernil con piel (Pollo) (g)<input type="number" min="0" value="0"   name="Pernil_con_piel" /></p>
+        <p>Pollo entero (g)<input type="number" min="0" value="0"   name="Pollo_entero" /></p>
+        <p>Pollo sin vísceras (g)<input type="number" min="0" value="0"   name="Pollo_sin_visceras" /></p>
+        <p>Punta de anca (g)<input type="number" min="0" value="0"   name="Punta_de_Anca" /></p>
+        <p>Queso campesino (g)<input type="number" min="0" value="0"   name="Queso_Campesino" /></p>
+        <p>Queso doble crema (g)<input type="number" min="0" value="0"   name="Queso_Doble_Crema" /></p>
+        <p>Queso mozzarella (g)<input type="number" min="0" value="0"   name="Queso_Mozzarella" /></p>
+        <p>Queso parmesano (g)<input type="number" min="0" value="0"   name="Queso_Parmesano" /></p>
+        <p>Róbalo (g)<input type="number" min="0" value="0"   name="Robalo" /></p>
+        <p>Sal (g)<input type="number" min="0" value="0"   name="Sal" /></p>
+        <p>Salmón (g)<input type="number" min="0" value="0"   name="Salmon" /></p>
+        <p>Salmón Ahumado (g)<input type="number" min="0" value="0"   name="Salmon_Ahumado" /></p>
+        <p>Sobrebarriga (g)<input type="number" min="0" value="0"   name="Sobrebarriga" /></p>
+        <p>Spaghetti (g)<input type="number" min="0" value="0"   name="Spaghetti" /></p>
+        <p>Tilapia (g)<input type="number" min="0" value="0"   name="Tilapia" /></p>
+        <p>Tomate cherry (g)<input type="number" min="0" value="0"   name="Tomate_cherry" /></p>
+        <p>Tomate milano (g)<input type="number" min="0" value="0"   name="Tomate_chonto" /></p>
+        <p>Tomate milano (g)<input type="number" min="0" value="0"   name="Tomate_milano" /></p>
+        <p>Trucha (g)<input type="number" min="0" value="0"   name="Trucha" /></p>
+        <p>Uva (g)<input type="number" min="0" value="0"   name="Uva" /></p>
+        <p>Vinagre blanco (ml)<input type="number" min="0" value="0"   name="Vinagre_blanco" /></p>
+        <p>Yogurt (g)<input type="number" min="0" value="0"   name="Yogurt" /></p>
+        <p>Yuca (g)<input type="number" min="0" value="0"   name="Yuca" /></p>
+        <p>Zanahoria (g)<input type="number" min="0" value="0"   name="Zanahoria" /></p>
+        <p><input type="submit" value="Optimizar" /></p>
+    </form>
+</body>
+
+</html>

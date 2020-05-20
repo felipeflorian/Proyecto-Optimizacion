@@ -1,0 +1,91 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Compra En Ara (Alegria Al Mejor Precio)</title>
+  </head>
+  <body>
+      <p> A continuación elija la cantidad que desea comprar para cada producto. Un espacio vacio se interpretará como 0
+      <form action="http://localhost:5000/resultadoAra", method= "POST">
+        <p>Leche Entera(ml)<input type = "number" min="0" value = "0" name="Leche_Entera"/></p>
+        <p>Leche Semidescremada(ml)<input type = "number" min="0" value = "0" name="Leche_Semidescremada"/></p>
+        <p>Leche Entera(ml)<input type = "number" min="0" value = "0" name="Leche_Entera"/></p>
+        <p>Huevos(A)(gr)<input type = "number" min="0" value = "0" name="Huevos(A)"/></p>
+        <p>Huevos(AA)(gr)<input type = "number" min="0" value = "0" name="Huevos(AA)"/></p>
+        <p>Pan Sandwich Blanco(gr)<input type = "number" min="0" value = "0" name="Pan_Sandwich_Blanco"/></p>
+        <p>Pan Sandwich Artesanal(gr)<input type = "number" min="0" value = "0" name="Pan_Sandwich_Artesanal"/></p>
+        <p>Pan Sandwich Integral(gr)<input type = "number" min="0" value = "0" name="Pan_Sandwich_Integral"/></p>
+        <p>Pan Sandwich Integral Con Nueces(gr)<input type = "number" min="0" value = "0" name="Pan_Sandwich_Integral_Con_Nueces"/></p>
+        <p>Café Molido(gr)<input type = "number" min="0" value = "0" name="Café_Molido"/></p>
+        <p>Café Molido(gr)<input type = "number" min="0" value = "0" name="Café_Molido_Medio"/></p>
+        <p>Café Molido Fuerte(gr)<input type = "number" min="0" value = "0" name="Café_Molido_Fuerte"/></p>
+        <p>Café Instantaneo(gr)<input type = "number" min="0" value = "0" name="Café_Instantaneo"/></p>
+        <p>Chocolate de Mesa(gr)<input type = "number" min="0" value = "0" name="Chocolate_de_Mesa"/></p>
+        <p>Galletas(gr)<input type = "number" min="0" value = "0" name="Galletas"/></p>
+        <p>Carne(gr)<input type = "number" min="0" value = "0" name="Carne"/></p>
+        <p>Carne Para Sudar(gr)<input type = "number" min="0" value = "0" name="Carne_Para_Sudar"/></p>
+        <p>Costilla de Res(gr)<input type = "number" min="0" value = "0" name="Costilla_de_Res"/></p>
+        <p>Pechuga de Pollo(gr)<input type = "number" min="0" value = "0" name="Pechuga_de_Pollo"/></p>
+        <p>Lomos de Pollo(gr)<input type = "number" min="0" value = "0" name="Lomos_de_Pollo"/></p>
+        <p>Jamón de Pollo(gr)<input type = "number" min="0" value = "0" name="Jamón_de_Pollo"/></p>
+        <p>Papas de Pollo(gr)<input type = "number" min="0" value = "0" name="Papas_de_Pollo"/></p>
+        <p>Pollo Apanado(gr)<input type = "number" min="0" value = "0" name="Pollo Apanado"/></p>
+        <p>Pincho de Pollo(gr)<input type = "number" min="0" value = "0" name="Pincho_de_Pollo"/></p>
+        <p>Pincho de Pollo(gr)<input type = "number" min="0" value = "0" name="Pincho_de_Pollo"/></p>
+        <p>Salmon(gr)<input type = "number" min="0" value = "0" name="Salmon"/></p>
+        <p>Tilapia(gr)<input type = "number" min="0" value = "0" name="Tilapia"/></p>
+        <p>Mojarra(gr)<input type = "number" min="0" value = "0" name="Mojarra"/></p>
+        <p>Milanesa de Res(gr)<input type = "number" min="0" value = "0" name="Milanesa_de_Res"/></p>
+        <p>Filete de Pollo(gr)<input type = "number" min="0" value = "0" name="Filete_de_Pollo"/></p>
+        <p>Muslo de Pollo(gr)<input type = "number" min="0" value = "0" name="Muslo_de_Pollo"/></p>
+        <p>Róbalo(gr)<input type = "number" min="0" value = "0" name="Róbalo"/></p>
+        <p>Lomito de Atún(gr)<input type = "number" min="0" value = "0" name="Lomito_de_Atún"/></p>
+        <p>Arroz Blanco(gr)<input type = "number" min="0" value = "0" name="Arroz_Blanco"/></p>
+        <p>Arroz Integral(gr)<input type = "number" min="0" value = "0" name="Arroz_Integral"/></p>
+        <p>Arroz Oriental(gr)<input type = "number" min="0" value = "0" name="Arroz_Oriental"/></p>
+        <p>Aceite de Girasol(gr)<input type = "number" min="0" value = "0" name="Aceite_de_Girasol"/></p>
+        <p>Aceite de Oliva(gr)<input type = "number" min="0" value = "0" name="Aceite_de_Oliva"/></p>
+        <p>Sal(gr)<input type = "number" min="0" value = "0" name="Sal"/></p>
+        <p>Azucar Blanca(gr)<input type = "number" min="0" value = "0" name="Azucar_Blanca"/></p>
+        <p>Azucar Morena(gr)<input type = "number" min="0" value = "0" name="Azucar_Morena"/></p>
+        <p>Azucar Morena(gr)<input type = "number" min="0" value = "0" name="Azucar_Morena"/></p>
+        <p>Queso Crema(gr)<input type = "number" min="0" value = "0" name="Queso_Crema"/></p>
+        <p>Queso Campesino(gr)<input type = "number" min="0" value = "0" name="Queso_Campesino"/></p>
+        <p>Queso Parmesano(gr)<input type = "number" min="0" value = "0" name="Queso_Parmesano"/></p>
+        <p>Harina de Trigo(gr)<input type = "number" min="0" value = "0" name="Harina_de_Trigo"/></p>
+        <p>Harina de Maíz(gr)<input type = "number" min="0" value = "0" name="Harina_de_Maís"/></p>
+        <p>Harina(Arepa)(gr)<input type = "number" min="0" value = "0" name="Harina(Arepa)"/></p>
+        <p>Spaghetti(gr)<input type = "number" min="0" value = "0" name="Spaghetti"/></p>
+        <p>Frijol(gr)<input type = "number" min="0" value = "0" name="Frijol"/></p>
+        <p>Frijol Con Tocino(gr)<input type = "number" min="0" value = "0" name="Frijol Con Tocino"/></p>
+        <p>Frijol Con Salchicha(gr)<input type = "number" min="0" value = "0" name="Frijol Con Salchicha"/></p>
+        <p>Lentejas(gr)<input type = "number" min="0" value = "0" name="Lentejas"/></p>
+        <p>Vinagre Balsámico(gr)<input type = "number" min="0" value = "0" name="Vinagre_Balsámico"/></p>
+        <p>Vinagre Blanco(gr)<input type = "number" min="0" value = "0" name="Vinagre_Blanco"/></p>
+        <p>Vinagre De Frutas(gr)<input type = "number" min="0" value = "0" name="Vinagre_de_Frutas"/></p>
+        <p>Mantequilla(gr)<input type = "number" min="0" value = "0" name="Mantequilla"/></p>
+        <p>Arvejas(gr)<input type = "number" min="0" value = "0" name="Arvejas"/></p>
+        <p>Garbanzos(gr)<input type = "number" min="0" value = "0" name="Garbanzos"/></p>
+        <p>Jamón Cerdo(gr)<input type = "number" min="0" value = "0" name="Jamón_Cerdo"/></p>
+        <p>Jamón Pollo(gr)<input type = "number" min="0" value = "0" name="Jamón_Pollo"/></p>
+        <p>Mortadelas(gr)<input type = "number" min="0" value = "0" name="Mortadelas"/></p>
+        <p>Manzana Roja(gr)<input type = "number" min="0" value = "0" name="Manzana_Roja"/></p>
+        <p>Manzana Gala(gr)<input type = "number" min="0" value = "0" name="Manzana_Gala"/></p>
+        <p>Manzana Verde(gr)<input type = "number" min="0" value = "0" name="Manzana_Verde"/></p>
+        <p>Pera(gr)<input type = "number" min="0" value = "0" name="Pera"/></p>
+        <p>Mango(gr)<input type = "number" min="0" value = "0" name="Mango"/></p>
+        <p>Lechuga(gr)<input type = "number" min="0" value = "0" name="Lechuga"/></p>
+        <p>Papa Pastusa(gr)<input type = "number" min="0" value = "0" name="Papa_Pastusa"/></p>
+        <p>Papa(gr)<input type = "number" min="0" value = "0" name="Papa"/></p>
+        <p>Papa Criolla(gr)<input type = "number" min="0" value = "0" name="Papa_Criolla"/></p>
+        <p>Papaya(gr)<input type = "number" min="0" value = "0" name="Papaya"/></p>
+        <p>Yuca(gr)<input type = "number" min="0" value = "0" name="Yuca"/></p>
+        <p>Pimentón(gr)<input type = "number" min="0" value = "0" name="Pimentón"/></p>
+        <p>Cebolla Blanca(gr)<input type = "number" min="0" value = "0" name="Cebolla_Blanca"/></p>
+        <p>Champiñones(gr)<input type = "number" min="0" value = "0" name="Champiñones"/></p>
+        <p>Tomate(gr)<input type = "number" min="0" value = "0" name="Tomate"/></p>
+        <p>Zanahoria(gr)<input type = "number" min="0" value = "0" name="Zanahoria"/></p>
+        <p>Yogurt(gr)<input type = "number" min="0" value = "0" name="Yogurt"/></p>
+      </form>
+  </body>
+</html>>

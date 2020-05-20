@@ -1,0 +1,236 @@
+﻿row;nombre;marca;cantidad;unidad;precio;tipo
+105;Aceite de girasol;Premier;2000;cm3;23590;integer
+106;Aceite de girasol;Oleocali;3000;cm3;26990;integer
+107;Aceite de girasol;Premier;1000;cm3;11590;integer
+108;Aceite de girasol;Premier;3000;cm3;31990;integer
+109;Aceite de oliva;Cuisine & Co;1000;cm3;39990;integer
+110;Aceite de oliva;Olivetto;1000;cm3;47990;integer
+111;Aceite de oliva;Farchioni;500;cm3;22590;integer
+112;Aceite de oliva;Ybarra;1000;cm3;23990;integer
+113;Aceite de oliva;Carbonell;500;cm3;21990;integer
+114;Aceite de oliva;Ybarra;3000;cm3;57990;integer
+115;Aceite de oliva;Rafael Salgado;200;cm3;10390;integer
+116;Aceite de oliva;Ybarra;750;cm3;21990;integer
+117;Aceite de oliva;Farchioni;500;cm3;29990;integer
+118;Aceite de oliva;Premier;250;cm3;11590;integer
+119;Aceite de oliva;Farchioni;750;cm3;30990;integer
+120;Aceite de oliva;Rafael Salgado;250;cm3;12590;integer
+121;Aceite de oliva;Cuisine & Co;500;cm3;22590;integer
+122;Aceite de oliva;Olivetto;1000;cm3;49990;integer
+85;Arroz;Diana;5000;g;18990;integer
+86;Arroz;Diana;10000;g;37990;integer
+87;Arroz;Supremo;5000;g;19990;integer
+88;Arroz;Florhuila;5000;g;21590;integer
+89;Arroz;Diana;1000;g;4390;integer
+90;Arroz;Roa;5000;g;21590;integer
+91;Arroz;Cuisine & Co;5000;g;18590;integer
+92;Arroz;Florhuila;10000;g;41990;integer
+93;Arroz;Supremo;1000;g;3990;integer
+94;Arroz;Roa;3000;g;12990;integer
+95;Arroz;Roa;10000;g;41990;integer
+96;Arroz;Casanare;10000;g;41990;integer
+97;Arroz;Florhuila;1000;g;4390;integer
+98;Arroz;Casanare;5000;g;20990;integer
+99;Arroz;Casanare;3000;g;12590;integer
+100;Arroz;Supremo;3000;g;11990;integer
+101;Arroz;Casanare;2500;g;8990;integer
+102;Arroz;Diana;3000;g;11590;integer
+103;Arroz;Roa;1000;g;4390;integer
+104;Arroz;Florhuila;3000;g;12990;integer
+191;Arveja;Cuisine & Co;500;g;8790;integer
+192;Arveja;Maritza;500;g;1790;integer
+193;Arveja;La Coruna;600;g;4190;integer
+194;Arveja;Del Campo;300;g;2890;integer
+195;Arveja;La Coruna;310;g;2790;integer
+196;Arveja;Pesquera del mar;500;g;9190;integer
+162;Atun en aceite de oliva;Van Camps;240;g;13990;integer
+163;Atun en aceite de oliva;Cuisine & Co;160;g;6990;integer
+164;Atun en aceite de oliva;Van Camps;160;g;8190;integer
+165;Atun en agua;Van Camps;240;g;12590;integer
+166;Atun en agua;Cuisine & Co;640;g;14990;integer
+167;Atun en agua;Van Camps;640;g;23590;integer
+168;Atun en agua;Van Camps;160;g;5990;integer
+169;Atun en agua;Cuisine & Co;160;g;4190;integer
+126;Azucar;Incauca;1000;g;3260;integer
+127;Azucar;Providencia;2500;g;6590;integer
+128;Azucar;Riopaila;5000;g;15990;integer
+129;Azucar;Manuelita;1000;g;3490;integer
+130;Azucar;Incauca;2500;g;8190;integer
+131;Azucar;Providencia;500;g;1790;integer
+132;Azucar;Riopaila;1000;g;3290;integer
+133;Azucar;Incauca;5000;g;15590;integer
+134;Azucar;Riopaila;2500;g;8190;integer
+67;Basa;Pesco;700;g;22000;integer
+69;Basa;Vitamar;800;g;21700;integer
+48;Cadera;Jumbo;500;g;10760;integer
+25;Cafe;Sello Rojo;500;g;8990;integer
+26;Cafe;Cafe Quindio;500;g;10390;integer
+27;Cafe;Aguila Roja;500;g;8190;integer
+28;Cafe;Aguila Roja;250;g;4590;integer
+29;Cafe;Maxima;500;g;5990;integer
+42;Carne Asar;Jumbo;500;g;7890;integer
+46;Carne Asar;Jumbo;2000;g;29980;integer
+47;Carne Desmechar;Jumbo;500;g;9460;integer
+40;Carne Molida;Jumbo;500;g;11186;integer
+45;Carne Molida;Jumbo;2000;g;31360;integer
+220;Cebolla cabezona;Cencosud;500;g;1441;integer
+221;Cebolla larga;Jumbo;500;g;3180;integer
+51;Centro de pierna;Jumbo;500;g;11050;integer
+55;Centro de pierna;Jumbo;620;g;14868;integer
+222;Champinones;Pascuali;400;g;6990;integer
+223;Champinones;Cuisine & Co;355;g;6590;integer
+224;Champinones;La Coruna;250;g;8190;integer
+43;Chatas;Jumbo;500;g;15365;integer
+30;Chocolate de Mesa;Corona;500;g;5990;integer
+31;Chocolate de Mesa;La Especial;500;g;4990;integer
+32;Chocolate de Mesa;Luker;250;g;6390;integer
+33;Chocolate de Mesa;Corona;250;g;3290;integer
+34;Chocolate de Mesa;Sol;500;g;5990;integer
+35;Chocolate de Mesa;JBO;500;g;4590;integer
+228;Cilantro;Jumbo;100;g;1980;integer
+80;Corvina;Antillana;450;g;33600;integer
+41;Costilla Res;Jumbo;500;g;4490;integer
+54;Costilla Res;Jumbo;200;g;17060;integer
+56;Filete Pollo;Bucanero;1200;g;21600;integer
+216;Fresa;Freskifruta;500;g;7980;integer
+170;Frijol;Diana;500;g;4190;integer
+171;Frijol;Maritza;1000;g;9590;integer
+172;Frijol;Maritza;500;g;4590;integer
+36;Galletas;Sultana;220;g;4290;integer
+37;Galletas;Saltin Noel;500;g;5190;integer
+38;Galletas;Ducales;588;g;7590;integer
+39;Galletas;Ducales;249;g;4490;integer
+197;Garbanzo;Maritza;500;g;2290;integer
+198;Garbanzo;La Coruna;600;g;5790;integer
+199;Garbanzo;La Coruna;310;g;2890;integer
+49;Goulash Res;Jumbo;500;g;7780;integer
+149;Harina;Haz de oros;500;g;2050;integer
+150;Harina;Haz de oros;1000;g;3890;integer
+151;Harina (Arepas);Pan;1000;g;3290;integer
+152;Harina (Arepas);Doñarepa;500;g;1990;integer
+153;Harina (Arepas);Pan;500;g;1990;integer
+8;Huevos (A);Santa Reyes;30;unidad;14990;integer
+10;Huevos (A);Santa Reyes;6;unidad;3890;integer
+12;Huevos (A);Kikes;30;unidad;13590;integer
+14;Huevos (A);Santa Anita;12;unidad;6390;integer
+6;Huevos (AA);Santa Reyes;18;unidad;15590;integer
+9;Huevos (AA);Santa Anita;12;unidad;5990;integer
+11;Huevos (AA);Santa Anita;6;unidad;3390;integer
+13;Huevos (AA);Santa Reyes;30;unidad;17590;integer
+16;Huevos (AA);Kikes;30;unidad;14390;integer
+7;Huevos (AAA);Napoles;12;unidad;8990;integer
+15;Huevos (AAA);Santa Reyes;20;unidad;14990;integer
+200;Jamon;Zenu;230;g;6790;integer
+201;Jamon;Colanta;250;g;6190;integer
+202;Jamon;Pietran;230;g;7390;integer
+203;Jamon;Rica;400;g;6990;integer
+204;Jamon;Zenu;450;g;10390;integer
+205;Jamon;Pietran;450;g;13990;integer
+206;Jamon;Colanta;500;g;10990;integer
+207;Jamon;Maxima;400;g;5990;integer
+208;Jamon;Colanta;150;g;3490;integer
+1;Leche Deslactosada;Alpina;6600;ml;21990;integer
+2;Leche Deslactosada;Alqueria;6600;ml;19990;integer
+3;Leche Entera;Alqueria;6600;ml;18990;integer
+4;Leche Entera;Alpina;6600;ml;20990;integer
+5;Leche Entera;Maxima;5400;ml;11390;integer
+213;Lechuga;Jumbo;190;g;3580;integer
+214;Lechuga;Makand;200;g;2280;integer
+215;Lechuga;Cuisine & Co;150;g;1790;integer
+173;Lenteja;Diana;500;g;2150;integer
+174;Lenteja;Maritza;500;g;2150;integer
+65;Lomo de Atun;Pesco;400;g;31400;integer
+77;Lomo de Atun;Vitamar;400;g;22500;integer
+183;Mantequilla;Rama;125;g;1950;integer
+184;Mantequilla;Alpina;500;g;16390;integer
+185;Mantequilla;Alpina;250;g;9190;integer
+186;Mantequilla;Rama;250;g;5190;integer
+187;Mantequilla;Rama;500;g;8990;integer
+188;Mantequilla;Colanta;250;g;6990;integer
+189;Mantequilla;Colanta;125;g;3990;integer
+190;Mantequilla;Alpina;125;g;5190;integer
+209;Manzana;Kagi;6;unidad;10980;integer
+75;Merluza;Vitamar;350;g;14400;integer
+52;Milanesa Res;Jumbo;500;g;9480;integer
+64;Mojarra;Pesquera del mar;450;g;19000;integer
+74;Mojarra;Vitamar;315;g;19400;integer
+76;Mojarra;Pesquera del mar;800;g;26800;integer
+217;Mora;Freskifruta;500;g;9280;integer
+17;Pan Sandwich;Bimbo;600;g;4890;integer
+18;Pan Sandwich;Bimbo;350;g;3590;integer
+19;Pan Sandwich;Comapan;750;g;5390;integer
+20;Pan Sandwich;Guadalupe;550;g;3890;integer
+21;Pan Sandwich Integral;Bimbo;500;g;6590;integer
+22;Pan Sandwich Integral;Pan Factory;700;g;8790;integer
+23;Pan Sandwich Integral;Vivalight;500;g;11590;integer
+24;Pan Sandwich Integral;Country;500;g;5390;integer
+218;Papa;Maxima;2500;g;6470;integer
+212;Papaya;Jumbo;1000;g;3058;integer
+210;Pera;Jumbo;500;g;14278;integer
+57;Pernil con piel;Jumbo;500;g;3915;integer
+58;Pollo entero;Jumbo;2500;g;15250;integer
+59;Pollo sin visceras;Bucanero;1500;g;15510;integer
+44;Punta de Anca;Jumbo;1000;g;30900;integer
+136;Queso Campesino;Alpina;250;g;6790;integer
+145;Queso Campesino;Colanta;250;g;5390;integer
+139;Queso Doble Crema;Colanta;1000;g;25990;integer
+140;Queso Doble Crema;Maxima;2000;g;31990;integer
+148;Queso Doble Crema;Colanta;500;g;12590;integer
+135;Queso Mozzarella;Alpina;250;g;7790;integer
+138;Queso Mozzarella;Colanta;450;g;12990;integer
+141;Queso Mozzarella;Colanta;250;g;8190;integer
+142;Queso Mozzarella;Alpina;1000;g;29990;integer
+144;Queso Mozzarella;Colanta;1000;g;23590;integer
+137;Queso Parmesano;Alpina;100;g;8190;integer
+143;Queso Parmesano;Alpina;500;g;37990;integer
+146;Queso Parmesano;Alpina;40;g;3390;integer
+147;Queso Parmesano;Colanta;250;g;16590;integer
+73;Robalo;Antillana;450;g;33600;integer
+79;Robalo;Ancla & Viento;450;g;36300;integer
+81;Robalo;Vitamar;405;g;36900;integer
+83;Robalo;Ancla & Viento;300;g;29931;integer
+84;Robalo;Pesco;425;g;32900;integer
+123;Sal;Refisal;500;g;790;integer
+124;Sal;Refisal;1000;g;1550;integer
+125;Sal;Refisal;3000;g;3790;integer
+60;Salmon;Ancla & Viento;450;g;40300;integer
+63;Salmon;Pesco;425;g;36850;integer
+66;Salmon;Vitamar;350;g;37990;integer
+68;Salmon;Antillana;450;g;43700;integer
+82;Salmon;Vitamar;450;g;44100;integer
+70;Salmon Ahumado;Antillana;100;g;15100;integer
+50;Sobrebarriga;Jumbo;500;g;8600;integer
+53;Sobrebarriga;Jumbo;200;g;32680;integer
+154;Spaghetti;La muneca;1000;g;4390;integer
+155;Spaghetti;Cuisine & Co;500;g;2490;integer
+156;Spaghetti;La muneca;500;g;2690;integer
+157;Spaghetti;Doria;250;g;1590;integer
+158;Spaghetti;Doria;500;g;2790;integer
+159;Spaghetti;Conzazoni;500;g;5390;integer
+160;Spaghetti;Conzazoni;1000;g;8390;integer
+161;Spaghetti;Monticello;250;g;2890;integer
+61;Tilapia;Antillana;360;g;14800;integer
+71;Tilapia;Antillana;800;g;28700;integer
+72;Tilapia;Pesco;700;g;28500;integer
+78;Tilapia;Vitamar;700;g;32600;integer
+227;Tomate cherry;Jumbo;500;g;5990;integer
+226;Tomate chonto;Jumbo;500;g;2118;integer
+225;Tomate milano;Jumbo;500;g;3839;integer
+62;Trucha;Pesco;450;g;25990;integer
+211;Uva;Jumbo;1000;g;21978;integer
+175;Vinagre blanco;Maxima;4000;ml;11390;integer
+176;Vinagre blanco;Maxima;1000;ml;3190;integer
+177;Vinagre blanco;Fruco;500;ml;4490;integer
+178;Vinagre blanco;Colmans;500;ml;2790;integer
+179;Vinagre blanco;De la selva;1000;ml;3390;integer
+180;Vinagre blanco;Heinz;500;ml;4990;integer
+181;Vinagre blanco;Maxima;500;ml;1750;integer
+182;Vinagre blanco;Chang y Chang;400;ml;7790;integer
+230;Yogurt;Alpina;750;g;8790;integer
+231;Yogurt;Alpina;900;g;6590;integer
+232;Yogurt;Regeneris;900;g;11590;integer
+233;Yogurt;Alpina;1750;g;16590;integer
+234;Yogurt;Colanta;1000;g;5990;integer
+235;Yogurt;Alpina;1000;g;10390;integer
+219;Yuca;Jumbo;500;g;2134;integer
+229;Zanahoria;Jumbo;500;g;1227;integer
