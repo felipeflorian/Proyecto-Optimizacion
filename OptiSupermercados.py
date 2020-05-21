@@ -8,12 +8,13 @@ from tabulate import tabulate
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
-""" Lectura data_sets en formata .csv separado por punto y coma"""
+""" Lectura data_sets en formato .csv separado por punto y coma"""
 
 dataset_jumbo = rutas = pandas.read_csv("jumbo.csv", sep=";", encoding="latin1").fillna("-")
 dataset_exito = rutas2 = pandas.read_csv("exito.csv", sep=";", encoding="latin1").fillna("-")
 dataset_d1 = rutas3 = pandas.read_csv("d1.csv", sep=";", encoding="latin1").fillna("-")
 dataset_carulla = rutas4 = pandas.read_csv("carulla.csv", sep=";", encoding="latin1").fillna("-")
+dataset_ara = rutas5 = pandas.read_csv("Ara.csv", sep=";", encoding="latin1").fillna("-")
 
 def construir_listas(dataset):
     productos = []
@@ -176,6 +177,32 @@ def opti_carulla():
     strng += "<a href = \"http://localhost:5000/\" > Inicio </a>"
     return strng
 
+@app.route("/ara",methods=["GET"])
+def solicitud_ara():
+    return app.send_static_file("Ara.html")
+
+@app.route("/resultadoAra",methods=["GET","POST"])
+def opti_ara():
+    productos, producto_marca, costos_asociados, cantidades_asociadas = construir_listas(dataset_ara)
+    solicitud = {}
+    print(productos)
+    for p in productos:
+        valor = request.values.get(p)
+        if valor != "":
+            print(p, type(valor))
+            solicitud[p] = int(valor)
+            #print(valor)
+    tot, ara = opti(solicitud, productos, producto_marca,costos_asociados, cantidades_asociadas)
+    print(tot)
+    strng = "Debe comprar: <br/>"
+    for var in ara.variables():
+        if var.varValue > 0:
+            compra = var.name.replace("BuyProduct_","")
+            precio = var.varValue*costos_asociados[compra]
+            strng += str(var.varValue) + " unidades de " + compra +" con precio "+str(precio)+" (cada uno "+str(costos_asociados[compra])+") <br/>"
+    strng += "Para un total de "+str(tot) +" <br/>"
+    strng += "<a href = \"http://localhost:5000/\" > Inicio </a>"
+    return strng
 
 
 app.run()
